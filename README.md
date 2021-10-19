@@ -1,4 +1,4 @@
-# rainy
+# How to Play
 
 RETURN to start  
 WASD to move  
