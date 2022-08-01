@@ -1,0 +1,23 @@
+﻿  Button.cpp
+  Canvas.cpp
+C:\Users\sentr\source\repos\AcidRainy\AcidRainy\src\Canvas.cpp(53,30): warning C4838: conversion from 'int' to 'Uint8' requires a narrowing conversion
+C:\Users\sentr\source\repos\AcidRainy\AcidRainy\src\Canvas.cpp(53,39): warning C4838: conversion from 'int' to 'Uint8' requires a narrowing conversion
+C:\Users\sentr\source\repos\AcidRainy\AcidRainy\src\Canvas.cpp(53,48): warning C4838: conversion from 'int' to 'Uint8' requires a narrowing conversion
+C:\Users\sentr\source\repos\AcidRainy\AcidRainy\src\Canvas.cpp(53,57): warning C4838: conversion from 'int' to 'Uint8' requires a narrowing conversion
+  Color.cpp
+  Cube.cpp
+  Enemy.cpp
+  FieldScene.cpp
+  Game.cpp
+C:\Users\sentr\source\repos\AcidRainy\AcidRainy\src\Game.cpp(65,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameObject.cpp
+  Keyboard.cpp
+  Main.cpp
+  Mouse.cpp
+  Player.cpp
+  RetryMenuScene.cpp
+  Scene.cpp
+  Sounds.cpp
+  TitleMenuScene.cpp
+  Generating Code...
+  AcidRainy.vcxproj -> C:\Users\sentr\source\repos\AcidRainy\x64\Debug\AcidRainy.exe
